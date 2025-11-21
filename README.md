@@ -34,7 +34,7 @@ This project analyzes retail store transaction data to uncover **sales trends**,
 - **Action:** Investigate reasons for 2023 drop; replicate successful strategies from 2024.
 
 #### 2. Monthly Sales Trend with Moving Average
-<img width="1056" height="640" alt="4) Seasonal Sales Patterns" src="https://github.com/user-attachments/assets/9f08cb55-3c04-4151-bb2a-2dd0736c9137" />
+<img width="1077" height="573" alt="1) Monthly Sales Trend with Moving Average" src="https://github.com/user-attachments/assets/a78ea413-c75a-4e05-b428-732897d0c187" />
 
 - **Observation:** Sales fluctuate between 40K–55K monthly; peaks in December to February.
 - **Action:** Plan seasonal campaigns and stock for Q4 and Q1
@@ -56,12 +56,6 @@ This project analyzes retail store transaction data to uncover **sales trends**,
 
 - **Observation:** 2024 consistently outperforms other years across months.
 - **Action:** Replicate successful strategies from 2024.
-
-
-### Monthly Sales Trend with Moving Average
-<img width="1077" height="573" alt="1) Monthly Sales Trend with Moving Average" src="https://github.com/user-attachments/assets/1c8427e8-7830-4859-b077-fcd31db2c1e8" />
-
-- **Observation:** Sales show high volatility month-to-month, ranging between ~40K and ~55K. There is a consistent, annual seasonal upswing in total sales in December to February
 
 ---
 
